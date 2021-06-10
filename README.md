@@ -3,7 +3,7 @@
 A Experimental Flutter application.
 
 ## Overview
-|   Treding Games   | Game Details |
+|   Trending Games   | Game Details |
 |     :---:      |     :---:      |
 |   <img src="1.png"/>   |    <img src="2.png"/>  |
 
